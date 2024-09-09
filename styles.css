@@ -27,6 +27,24 @@ nav a {
   text-decoration: none;
 }
 
+/* Style definition to body area */
 .contenedor {
   padding-top: 110px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.producto {
+  background-color: white;
+  padding: 1%;
+  border: 3 solid gray;
+  width: 150px;
+  margin: 10px;
+}
+
+.producto img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }

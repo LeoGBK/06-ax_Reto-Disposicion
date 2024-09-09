@@ -2,6 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Style definition in header area with navigation bar */
 .menu {
   width: 100%;
   background-color: yellow;
@@ -10,17 +11,22 @@ body {
   position: fixed;
 }
 
-.menu > a {
-  text-decoration: none;
+
+/* Style definition in navigation bar */
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+/* Style definition in <a> tags inside navigation bar */
+nav a {
   color: red;
+  font-size: larger;
   font-weight: bold;
-  padding-inline: 3%;
-  display: flexbox;
+  padding: 2% 3%;
+  text-decoration: none;
 }
 
 .contenedor {
-  min-height: 100%;
-  display: flex;
-  grid-template-columns: 50px, 100px, 100px;
-  grid-template-rows: auto;
+  padding-top: 110px;
 }

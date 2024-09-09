@@ -7,7 +7,6 @@ body {
   background-color: yellow;
   height: 100px;
   text-align: center;
-  align-content: center;
   position: fixed;
 }
 
@@ -16,6 +15,7 @@ body {
   color: red;
   font-weight: bold;
   padding-inline: 3%;
+  display: flexbox;
 }
 
 .contenedor {

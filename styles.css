@@ -11,7 +11,6 @@ body {
   position: fixed;
 }
 
-
 /* Style definition in navigation bar */
 nav {
   display: flex;
@@ -37,14 +36,14 @@ nav a {
 
 .producto {
   background-color: white;
-  padding: 1%;
-  border: 3 solid gray;
+  padding: 1.5%;
+  border: 1px solid gray;
   width: 150px;
-  margin: 10px;
+  margin: 15px;
 }
 
 .producto img {
   width: 100%;
   height: auto;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }

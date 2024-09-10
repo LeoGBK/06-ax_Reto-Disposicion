@@ -48,3 +48,16 @@ nav a {
   height: auto;
   margin-bottom: 10%;
 }
+
+h3, p {
+  padding-bottom: 10%;
+}
+
+h3 {
+  font-size: larger;
+  font-weight: bold;
+}
+
+p, a{
+  font-size: small;
+}

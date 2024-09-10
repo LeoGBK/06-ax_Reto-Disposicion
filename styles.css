@@ -21,7 +21,7 @@ nav a {
   color: red;
   font-size: larger;
   font-weight: bold;
-  padding: 40px 15px;
+  padding: 35px 15px;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ nav a {
   background-color: white;
   padding: 1.5%;
   border: 1px solid gray;
-  width: 150px;
+  width: 200px;
   margin: 15px;
   border-radius: 5px;
 }

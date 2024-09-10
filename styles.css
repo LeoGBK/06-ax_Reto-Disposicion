@@ -40,10 +40,11 @@ nav a {
   border: 1px solid gray;
   width: 150px;
   margin: 15px;
+  border-radius: 5px;
 }
 
 .producto img {
   width: 100%;
   height: auto;
-  margin-bottom: 0px;
+  margin-bottom: 10%;
 }

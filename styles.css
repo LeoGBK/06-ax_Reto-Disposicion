@@ -6,8 +6,7 @@ body {
 .menu {
   width: 100%;
   background-color: yellow;
-  height: 100px;
-  text-align: center;
+  height: 15%;
   position: fixed;
 }
 
@@ -22,7 +21,7 @@ nav a {
   color: red;
   font-size: larger;
   font-weight: bold;
-  padding: 2% 3%;
+  padding: 40px 15px;
   text-decoration: none;
 }
 
@@ -49,7 +48,8 @@ nav a {
   margin-bottom: 10%;
 }
 
-h3, p {
+h3,
+p {
   padding-bottom: 10%;
 }
 
@@ -58,6 +58,7 @@ h3 {
   font-weight: bold;
 }
 
-p, a{
+p,
+a {
   font-size: small;
 }

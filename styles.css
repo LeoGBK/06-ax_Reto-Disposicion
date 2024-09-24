@@ -36,7 +36,7 @@ nav a {
 .producto {
   background-color: white;
   padding: 1.5%;
-  border: 1px solid gray;
+  border: 2px solid rgb(230, 229, 229);
   width: 200px;
   margin: 15px;
   border-radius: 5px;
